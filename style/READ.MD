@@ -57,3 +57,16 @@ This project fulfills all mandatory requirements for the assessment:
     - Environment variables used for sensitive configuration.
 
 
+## 💡 Project Idea & Value to Users
+
+The Central Perk Blog provides users with:
+
+- A **personalized blogging platform** where they can share thoughts, updates, or stories.  
+- **User-friendly navigation** and interactive features, enhancing the reading and writing experience.  
+- A **community-style environment** to encourage engagement through comments and tagging.  
+- A **reliable and scalable backend** for secure data handling and future expansion.
+
+
+
+
+
