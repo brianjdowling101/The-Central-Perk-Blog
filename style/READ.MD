@@ -66,6 +66,16 @@ The Central Perk Blog provides users with:
 - A **community-style environment** to encourage engagement through comments and tagging.  
 - A **reliable and scalable backend** for secure data handling and future expansion.
 
+## Future Enhancements
+
+- User authentication and profiles.  
+- Advanced search and filtering for posts.  
+- Rich text editor for blog creation.  
+- Responsive mobile-first design improvements.  
+- Integration with social media APIs for sharing posts.  
+
+---
+
 
 
 
